@@ -1,0 +1,90 @@
+.about_section {
+    width: 100%;
+    float: left;
+    padding-bottom: 0px;
+
+    margin-top: 200px;
+}
+
+.about_taital_main {
+    width: 100%;
+    float: left;
+    padding-top: 230px;
+}
+
+.about_taital {
+    width: 100%;
+    float: left;
+    font-size: 40px;
+    color: #ffffff;
+    background-color: #b538a4;
+    height: auto;
+    padding: 0px 37px;
+    border-top-left-radius: 40px;
+    border-bottom-left-radius: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.about_text {
+    width: 80%;
+    float: left;
+    font-size: 16px;
+    color: #3f3f3f;
+    margin: 0px;
+    padding-top: 40px;
+}
+
+.read_bt {
+    width: 190px;
+    float: left;
+    margin-top: 40px;
+}
+
+.read_bt a {
+    width: 100%;
+    float: left;
+    font-size: 18px;
+    color: #ffffff;
+    background-color: #fb8a05;
+    text-align: center;
+    padding: 8px 10px;
+}
+
+.read_bt a:hover {
+    background-color: #b538a4;
+    color: #ffffff;
+}
+
+.abiut_images_main {
+    width: 100%;
+    float: left;
+    padding-left: 100px;
+}
+
+img.image_1 {
+    width: 50%;
+    float: right;
+    position: relative;
+}
+
+img.image_2 {
+    width: 70%;
+    float: left;
+    position: absolute;
+    top: 110px;
+    left: 90px;
+}
+
+.main {
+    width: 100%;
+    float: right;
+    text-align: right;
+}
+
+img.image_3 {
+    width: 70%;
+    float: right;
+    padding-top: 125px;
+    padding-left: 104px;
+}
